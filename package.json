@@ -1,0 +1,24 @@
+{
+  "name": "training-field",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Byekibe/Node-basic-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Byekibe/Node-basic-server/issues"
+  },
+  "homepage": "https://github.com/Byekibe/Node-basic-server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

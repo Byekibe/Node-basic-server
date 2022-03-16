@@ -1,0 +1,4 @@
+{
+  "delay": 2000,
+  "ignore": ["docs/*", "dist/*", "*/*.css"]
+}
